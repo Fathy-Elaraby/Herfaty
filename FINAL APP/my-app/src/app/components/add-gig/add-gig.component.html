@@ -1,0 +1,181 @@
+
+
+<app-nav-bar></app-nav-bar>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="p-grid p-fluid">
+
+    <!-- <div class="row">
+    <div class="p-col-12 p-md-4">
+        <div class="p-inputgroup">
+            <span class="p-inputgroup-addon">
+                &#163;
+            </span>
+            <input type="text" pInputText placeholder="Price">
+            <span class="p-inputgroup-addon">.00</span>
+        </div>
+    </div>
+    <div class="p-col-12 p-md-4">
+        <div class="p-inputgroup">
+            <span class="p-inputgroup-addon">
+                &#163;
+            </span>
+            <input type="text" pInputText placeholder="Price">
+            <span class="p-inputgroup-addon">.00</span>
+        </div>
+    </div>
+    </div>
+ <div class="row">
+     <!--test upload File--
+              <div class="row">
+                <input type="file" #file placeholder="رفع الصوره الشخصية"  (change)="uploadfile(file.files)"
+                 style="display: none;"  >
+                <button type="button" (click)="file.click()" > اختر الصوره</button>
+                </div>
+
+      <!-- end test upload File--
+
+ </div> -->
+    <!-- <div class="row container">
+    <label class="form-control-label"> اضف وصف للخدمة </label>
+ <textarea pInputTextarea [(ngModel)]="description" style="resize: none;"></textarea>
+</div> -->
+</div>
+
+
+<div class="">
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-success" style="margin-left: 65rem;" data-toggle="modal" data-target="#exampleModal">
+   اضافة خدمة
+</button>
+
+</div>
+
+
+<!-- Modal -->
+<div class="modal-dialog modal-dialog-centered">
+    <div class="modal fade   modal-dialog-centered" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title " id="exampleModalLabel">اضافه خدمة</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="container">
+                        <form [formGroup]="gigService.formModel">
+                            <div class="form-row">
+                                <div class="form-group col-md-12 mb-12">
+                                    <label class="form-control-label">اسم الخدمة</label>
+                                    <input type="text" pInputText [(ngModel)]="gigName" placeholder="اسم الخدمة"
+                                        formControlName="gigName" name="gigName" class="form-control">
+                                    <div class="text-danger divError"
+                                        *ngIf="gigService.formModel.get('gigName')?.touched &&gigService.formModel.get('gigName')?.errors?.required">
+                                        يجب ادخاله</div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+
+                                <div class="form-group col-md-12 mb-12">
+                                    <label class="form-control-label">اعلي سعر</label>
+
+                                    <!--  <span class="p-inputgroup-addon">
+                                        &#163;
+                                    </span> -->
+                                    <input type="text" placeholder="اعلي سعر الخدمة " formControlName="maxPrice"
+                                        [(ngModel)]="maxPrice" name="maxPrice" class="form-control">
+                                    <!-- <span class="p-inputgroup-addon">.00</span>
+ --> <label class="text-danger" *ngIf="gigService.formModel.get('maxPrice')?.touched &&gigService.formModel.get('maxPrice')?.errors?.required">يجب
+                                        ادخاله</label>
+                                    <label class="text-danger"
+                                        *ngIf="gigService.formModel.get('maxPrice')?.touched &&gigService.formModel.get('maxPrice')?.errors?.pattern">يجب ادخاله
+                                    </label>
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+
+                                <div class="form-group col-md-12 mb-12">                                <label class="form-control-label">اقل سعر للخدمة</label>
+
+                                <!-- <span class="p-inputgroup-addon">
+                                        &#163;
+                                    </span> -->
+                                <input type="text" placeholder="اقل سعر الخدمة " formControlName="minPrice"
+                                    [(ngModel)]="minPrice" name="minPrice" class="form-control">
+                                <!--                                     <span class="p-inputgroup-addon">.00</span>
+ --> <label class="text-danger" *ngIf="gigService.formModel.get('minPrice')?.touched &&gigService.formModel.get('minPrice')?.errors?.pattern">غير
+                                    صحيح</label>
+                            </div>
+                            </div>
+
+<div class="form-row">
+
+                                <div class="form-group col-md-12 mb-12">
+
+                                <label class="form-control-label">اوصف الخدمة</label>
+                                <textarea class="form-control" type="text" pInputTextarea [(ngModel)]="description"
+                                    name="description" style="resize: none;"
+                                    placeholder="..تتكون من دهان حائظ ولصق ورق للحائط" formControlName="description">
+                                    </textarea>
+                                <label class="text-danger"
+                                    *ngIf="gigService.formModel.get('description')?.touched &&gigService.formModel.get('description')?.errors?.required">غير
+                                    صحيح</label>
+                            </div>
+</div>
+
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                    <button class="btn btn-outline-secondary" (click)="file.click()" type="button"
+                                        id="inputGroupFileAddon03">اختر</button>
+                                </div>
+                                <div class="custom-file">
+                                    <input type="file" class="custom-file-input" #file id="inputGroupFile03"
+                                        aria-describedby="inputGroupFileAddon03" (change)="uploadfile(file.files)">
+                                    <label class="custom-file " for="inputGroupFile03">اختر صورة توصف
+                                        الخدمة</label><!--  custom-file-label -->
+                                </div>
+                            </div>
+
+                            <!-- <div class="form-group">
+                                <label class="form-control-label">صورة الخدمة</label>
+
+                                <input type="file" #file placeholder="رفع الصوره الشخصية"
+                                    (change)="uploadfile(file.files)" style="display: none;">
+                                <button type="button" (click)="file.click()" style="float: right;"> اختر الصوره</button>
+                            </div> -->
+
+
+
+
+                            <div class="modal-footer form-group">
+                                <button type="submit" class="btn btn-primary" (click)="addGig()">احفظ</button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</div><!-- Vertically centered modal -->
+
+
+
+<div class="container">
+    <div class="row">
+
+    </div>
+
+
+</div>

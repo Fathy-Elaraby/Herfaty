@@ -1,0 +1,113 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+
+  <div class="main-content">
+    <!-- Top navbar -->
+<app-nav-bar></app-nav-bar>
+<br>
+<br>
+<br>
+<br>
+
+    <!-- Header -->
+    <div class="header pb-8 pt-5 pt-lg-8 d-flex align-items-center" style="min-height: 600px; background-image:  url(../../../assets/images/craft2.jpg); background-size: cover; background-position: center top;">
+      <!-- Mask -->
+      <span class="mask bg-gradient-default opacity-8"></span>
+      <!-- Header container -->
+      <div class="container-fluid d-flex align-items-center">
+        <div class="row">
+          <div class="col-lg-7 col-md-10">
+            <h1 class="display-2 text-white"> مرحبا{{alluser.fName}} {{alluser.lName}} </h1>
+            <!-- <p class="text-white mt-0 mb-5">This is your profile page. You can see the progress you've made with your work and manage your projects or assigned tasks</p> -->
+            <a routerLinkActive="router-link-active"  [routerLink]="'/edit/'+user_id" class="btn btn-info">تعديل الصفحة الشخصية</a>
+            <br>
+             <br>
+            <a routerLinkActive="router-link-active"  [routerLink]="'/gig/'" class="btn btn-info"> اضافة خدمة</a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Page content -->
+    <div class="container-fluid mt--7">
+      <div class="row">
+        <div class="col-xl-4 order-xl-2 mb-5 mb-xl-0" >
+          <div class="card card-profile shadow">
+            <div class="row justify-content-center">
+              <div class="col-lg-3 order-lg-2">
+                <div class="card-profile-image">
+                  <a href="#">
+                    <img src="{{alluser.profpic}}" class="rounded-circle">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="card-header text-center border-0 pt-8 pt-md-4 pb-0 pb-md-4">
+              <div class="d-flex justify-content-between">
+
+
+
+              </div>
+            </div>
+            <div class="card-body pt-0 pt-md-4">
+              <div class="row">
+                <div class="col">
+                  <div class="card-profile-stats d-flex justify-content-center mt-md-5">
+                    <div>
+                      <span class="heading"></span>
+                      <span class="description"></span>
+                    </div>
+                    <div>
+                      <span class="heading">{{allgig.length}}</span>
+                      <span class="description"> عدد الخدمات </span>
+                    </div>
+                    <div>
+                      <span class="heading"></span>
+                      <span class="description"></span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="text-center">
+                <h3>
+                  {{alluser.fName}} {{alluser.lName}}<span class="font-weight-light"></span>
+                </h3>
+                <div class="h5 font-weight-300">
+                  <i class="ni location_pin mr-2"></i> {{alluser.location}}</div>
+                <div class="h5 mt-4">
+                  <i class="ni business_briefcase-24 mr-2"></i>{{alluser.phone}}
+                </div>
+                <div>
+                  <i class="ni education_hat mr-2"></i>{{alluser.email}}
+                </div>
+                <hr class="my-4">
+
+                <!-- <p>
+                <a href="#">Show more</a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-8 order-xl-1">
+            <div class="row flex-row-reverse">
+
+                      <div class="col-md-4" *ngFor="let gig of allgig">
+                        <div class="product-item">
+                          <a [routerLink]="['/jobdetails/'+gig.gigId]"><img src="{{gig.gigPic}}" width="70" height="300"  alt=""></a>
+                          <div class="down-content">
+                            <a><h4 class="center">{{gig.gigName}}</h4></a>
+
+                            <h6 class="center"> {{gig.maxPrice}}-{{gig.minPrice}} EGP </h6>
+
+                            <h4><small class="float-right">  <i class="fa fa-briefcase float-right"></i>{{gig.profession.profName}} </small></h4>
+
+
+                          </div>
+                        </div>
+                      </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+

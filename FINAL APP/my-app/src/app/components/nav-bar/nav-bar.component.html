@@ -1,0 +1,127 @@
+<header class="">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container" *ngIf="r=='Admin'; else nonav ">
+      <a class="navbar-brand" href="index.html"><img id="ic" src="../../../assets/images/Group-1.ico"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-5">
+            <!-- <li class="nav-item "><a class="nav-link text-dark" routerLinkActive="active" routerLink="/contactus"><b>تواصل معنا</b></a></li>
+            <li class="nav-item">
+              <a class="nav-link text-dark"  routerLink="/aboutus"><b> عن الموقع</b></a></li>
+
+              <li class="nav-item"><a class="nav-link text-dark" routerLink="/profile"> <b>الصفحة الشخصية</b></a></li>
+
+              <li class="nav-item"><a class="nav-link text-dark" routerLink="/jobs"> <b>الوظائف</b></a></li>
+
+
+              <li class="nav-item">
+                <a class="nav-link text-dark"  [routerLinkActiveOptions]="{exact:true}" routerLinkActive="text-light" routerLink="/" href="/"><b>الصفحة الرئيسية</b>
+                    <span class="sr-only">(current)</span>
+                </a>
+            </li> -->
+              <ul class="nav navbar-nav navbar-right ml-5" >
+                  <li><a class="text-dark" routerLinkActive="active" routerLink="/" (click)="o()"><i class="lnr lnr-enter"></i>  خروج</a></li>
+                  <li><a class="text-dark" routerLinkActive="active" routerLink="/ViewUsers"><i class="lnr lnr-users"></i>  الاعضاء</a></li>
+                  <li><a class="text-dark" routerLinkActive="active" routerLink="/messages"><i class="lnr lnr-checkmark-circle"></i>  الرسائل</a></li>
+
+              </ul>
+
+          </ul>
+      </div>
+    </div>
+    <ng-template #nonav>
+      <div class="container" *ngIf="(r=='Freelancer'); else non ">
+        <a class="navbar-brand" href="index.html"><img id="ic" src="../../../assets/images/Group-1.ico"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-5">
+              <li class="nav-item "><a class="nav-link text-dark" routerLinkActive="active" routerLink="/contactus"><b>تواصل معنا</b></a></li>
+              <li class="nav-item">
+                <a class="nav-link text-dark"  routerLink="/aboutus"><b> عن الموقع</b></a></li>
+
+                <li class="nav-item"><a class="nav-link text-dark" routerLink="/profile"> <b>الصفحة الشخصية</b></a></li>
+
+                <li class="nav-item"><a class="nav-link text-dark" routerLink="/jobs"> <b>الوظائف</b></a></li>
+
+
+                <li class="nav-item">
+                  <a class="nav-link text-dark"  [routerLinkActiveOptions]="{exact:true}" routerLinkActive="text-light" routerLink="/" href="/"><b>الصفحة الرئيسية</b>
+                      <span class="sr-only">(current)</span>
+                  </a>
+              </li>
+                <ul class="nav navbar-nav navbar-right ml-5" >
+                    <li><a class="text-dark" routerLinkActive="active" routerLink="/" (click)="o()"><i class="lnr lnr-enter"></i>  خروج</a></li>
+
+                </ul>
+
+            </ul>
+        </div>
+      </div>
+    </ng-template>
+    <ng-template #non>
+      <div class="container" *ngIf="( r=='User'); else no ">
+        <a class="navbar-brand" href="index.html"><img id="ic" src="../../../assets/images/Group-1.ico"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-5">
+              <li class="nav-item "><a class="nav-link text-dark" routerLinkActive="active" routerLink="/contactus"><b>تواصل معنا</b></a></li>
+              <li class="nav-item">
+                <a class="nav-link text-dark"  routerLink="/aboutus"><b> عن الموقع</b></a></li>
+
+                <!-- <li class="nav-item"><a class="nav-link text-dark" routerLink="/profile"> <b>الصفحة الشخصية</b></a></li> -->
+
+                <li class="nav-item"><a class="nav-link text-dark" routerLink="/jobs"> <b>الوظائف</b></a></li>
+
+
+                <li class="nav-item">
+                  <a class="nav-link text-dark"  [routerLinkActiveOptions]="{exact:true}" routerLinkActive="text-light" routerLink="/" href="/"><b>الصفحة الرئيسية</b>
+                      <span class="sr-only">(current)</span>
+                  </a>
+              </li>
+                <ul class="nav navbar-nav navbar-right ml-5" >
+                    <li><a class="text-dark" routerLinkActive="active" routerLink="/" (click)="o()"><i class="lnr lnr-enter"></i>  خروج</a></li>
+
+                </ul>
+
+            </ul>
+        </div>
+      </div>
+    </ng-template>
+
+    <ng-template #no>
+    <div class="container">
+      <a class="navbar-brand" href="index.html"><img id="ic" src="../../../assets/images/Group-1.ico"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-5">
+            <li class="nav-item "><a class="nav-link text-dark" routerLinkActive="active" routerLink="/contactus"><b>تواصل معنا</b></a></li>
+            <li class="nav-item">
+              <a class="nav-link text-dark"  routerLink="/aboutus"><b> عن الموقع</b></a></li>
+              <li class="nav-item"><a class="nav-link text-dark" routerLink="/jobs"> <b>الوظائف</b></a></li>
+
+
+              <li class="nav-item">
+                <a class="nav-link text-dark"  [routerLinkActiveOptions]="{exact:true}" routerLinkActive="text-light" routerLink="/" href="/"><b>الصفحة الرئيسية</b>
+                    <span class="sr-only">(current)</span>
+                </a>
+            </li>
+              <ul class="nav navbar-nav navbar-right ml-5" >
+                  <li><a class="text-dark" routerLinkActive="active" routerLink="/login"><i class="lnr lnr-enter"></i> تسجيل</a></li>
+                  <li><a class="text-dark" routerLinkActive="active" routerLink="/Registr"><i class="lnr lnr-user"></i> انشاء </a></li>
+
+              </ul>
+
+          </ul>
+      </div>
+    </div>
+  </ng-template>
+  </nav>
+</header>

@@ -1,0 +1,720 @@
+E:\c#\GPP\GPP\bin\Debug\net5.0\appsettings.Development.json
+E:\c#\GPP\GPP\bin\Debug\net5.0\appsettings.json
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.exe
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.deps.json
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.json
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.dev.json
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ref\GPP.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\GPP.pdb
+E:\c#\GPP\GPP\bin\Debug\net5.0\Humanizer.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.csprojAssemblyReference.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfoInputs.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfo.cs
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CoreCompileInputs.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cs
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.Manifest.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.xml
+E:\c#\GPP\GPP\obj\Debug\net5.0\scopedcss\bundle\GPP.styles.css
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.RazorTargetAssemblyInfo.cache
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CopyComplete
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.dll
+E:\c#\GPP\GPP\obj\Debug\net5.0\ref\GPP.dll
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.pdb
+E:\c#\GPP\GPP\obj\Debug\net5.0\GPP.genruntimeconfig.cache
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\c#\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\appsettings.Development.json
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\appsettings.json
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.exe
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.deps.json
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.json
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.dev.json
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ref\GPP.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\GPP.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Humanizer.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.csprojAssemblyReference.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfoInputs.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfo.cs
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CoreCompileInputs.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.Manifest.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.xml
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\scopedcss\bundle\GPP.styles.css
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.RazorTargetAssemblyInfo.cache
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CopyComplete
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\ref\GPP.dll
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.pdb
+D:\Work\ITI_intake41.Net\Projects\Graduation project\Final\ApiWithPics\GPP\GPP\obj\Debug\net5.0\GPP.genruntimeconfig.cache
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.Development.json
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.json
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.exe
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.deps.json
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.json
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.dev.json
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ref\GPP.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\GPP.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Humanizer.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI\Project\API\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csprojAssemblyReference.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfoInputs.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfo.cs
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CoreCompileInputs.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.Manifest.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.xml
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\scopedcss\bundle\GPP.styles.css
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.RazorTargetAssemblyInfo.cache
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CopyComplete
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.dll
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\ref\GPP.dll
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.pdb
+E:\ITI\Project\API\GPP\GPP\GPP\obj\Debug\net5.0\GPP.genruntimeconfig.cache
+E:\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.Development.json
+E:\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.json
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.exe
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.deps.json
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.json
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.dev.json
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ref\GPP.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\GPP.pdb
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Humanizer.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csprojAssemblyReference.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfoInputs.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfo.cs
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CoreCompileInputs.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cs
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.Manifest.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.xml
+E:\GPP\GPP\GPP\obj\Debug\net5.0\scopedcss\bundle\GPP.styles.css
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.RazorTargetAssemblyInfo.cache
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CopyComplete
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.dll
+E:\GPP\GPP\GPP\obj\Debug\net5.0\ref\GPP.dll
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.pdb
+E:\GPP\GPP\GPP\obj\Debug\net5.0\GPP.genruntimeconfig.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.Development.json
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\appsettings.json
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.exe
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.deps.json
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.json
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.runtimeconfig.dev.json
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ref\GPP.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\GPP.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Humanizer.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csprojAssemblyReference.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfoInputs.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.AssemblyInfo.cs
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CoreCompileInputs.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cs
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.MvcApplicationPartsAssemblyInfo.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.Manifest.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\staticwebassets\GPP.StaticWebAssets.xml
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\scopedcss\bundle\GPP.styles.css
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.RazorTargetAssemblyInfo.cache
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.csproj.CopyComplete
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\ref\GPP.dll
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.pdb
+D:\cleandata-20210422T023611Z-001\cleandata\GPPCleanData\GPP\GPP\GPP\obj\Debug\net5.0\GPP.genruntimeconfig.cache

@@ -1,0 +1,95 @@
+<app-nav-bar></app-nav-bar>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  class="page-heading about-heading header-text" style="background-image: url(../../../assets/images/craft2.jpg); padding: 370px 0px 130px 0px;"></div>
+
+<div class="banner header-text">
+  <div class="owl-banner owl-carousel">
+    <!-- <div class="banner-item-01">
+      <div class="text-content">
+
+      </div>
+    </div> -->
+
+    <!----------------------------------------------------------------->
+
+
+
+
+
+    <div class="container">
+      <!-- Section Tittle -->
+      <div class="row">
+
+        <div class="col-lg-12">
+          <div class="section-tittle text-center">
+
+            <h2>أقسام حرفة </h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4" *ngFor="let p of profs">
+        <div class="product-item">
+          <a routerLink="/job-details"><img src="{{p.profPic}}" width="70" height="300" alt=""></a>
+          <div class="down-content">
+            <a routerLink="/job-details">
+              <h4>{{p.profName}}</h4>
+            </a>
+
+          </div>
+        </div>
+      </div>
+
+
+
+          </div>
+        </div>
+      </div>
+
+      <br>
+      <br>
+
+      <div class="container">
+        <!-- Section Tittle -->
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-tittle text-center">
+
+              <h2>احدث الوظائف </h2>
+            </div>
+          </div>
+        </div>
+        <div class="latest-products">
+          <div class="container">
+            <div class="row flex-row-reverse">
+              <div class="col-md-12">
+                <div class="section-heading">
+
+                  <a  routerLink="/jobs">تصفح اكثر</a>
+                </div>
+              </div>
+              <div class="col-md-4" *ngFor="let gig of gigs">
+                <div class="product-item">
+                  <a [routerLink]="['/jobdetails/'+gig.gigId]"><img src="{{gig.gigPic}}" width="70" height="300"  alt=""></a>
+                  <div class="down-content">
+                    <a><h4 class="center">{{gig.gigName}}</h4></a>
+
+                    <h6 class="center"> {{gig.maxPrice}}-{{gig.minPrice}} EGP </h6>
+
+                    <h4><small class="float-right">  <i class="fa fa-briefcase float-right"></i>{{gig.profession.profName}} </small></h4>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+
+            </div>
+          </div>
+        </div>

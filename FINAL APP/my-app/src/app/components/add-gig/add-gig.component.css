@@ -1,0 +1,14 @@
+  /*my edit*/
+  label{
+    float: right;
+    margin-right: 9px;
+  }
+  input , textarea{
+    text-align: right;
+  }
+
+  h6{
+    text-align: right;
+    margin-right: 9px;
+
+  }

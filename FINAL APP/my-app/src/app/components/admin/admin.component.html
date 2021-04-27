@@ -1,0 +1,88 @@
+<app-nav-bar></app-nav-bar>
+<div class="banner header-text">
+  <div class="owl-banner owl-carousel">
+    <div class="banner-item-01">
+      <div class="text-content">
+
+      </div>
+    </div>
+
+    <!----------------------------------------------------------------->
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="container" style="align-items: center;">
+      <!-- Section Tittle -->
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="section-tittle text-center">
+
+            <h2>أقسام حرفة </h2>
+            <br>
+            <button type="button" [routerLink]="['/addprofession']" class="btn btn btn-success btn-lg btn-block">اضافة
+              قسم</button>
+            <br>
+          </div>
+
+        </div>
+
+        <div class="card col-md-4"  *ngFor="let prof of profs">
+          <img src="{{prof.profPic}}" class="card-img-top" width="70" height="300" alt="...">
+          <div class="card-body">
+            <h5 class="card-title" style="float: right;">{{prof.profName}} </h5>
+            <br>
+            <br>
+
+            <!-- <button type="button" style="float: right;" class="btn btn-danger" (click)="delete(prof.id)">حذف</button> -->
+          </div>
+        </div>
+
+
+      </div>
+
+
+
+      <br>
+      <br>
+      <div class="container">
+        <!-- Section Tittle -->
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-tittle text-center">
+
+              <h2>احدث الوظائف </h2>
+            </div>
+          </div>
+        </div>
+        <div class="latest-products">
+          <div class="container">
+            <div class="row flex-row-reverse">
+              <div class="col-md-12">
+                <div class="section-heading">
+
+                  <a  routerLink="/jobs">تصفح اكثر</a>
+                </div>
+              </div>
+              <div class="col-md-4" *ngFor="let gig of gigs">
+                <div class="product-item">
+                  <a [routerLink]="['/jobdetails/'+gig.gigId]"><img src="{{gig.gigPic}}" width="70" height="300"  alt=""></a>
+                  <div class="down-content">
+                    <a><h4 class="center">{{gig.gigName}}</h4></a>
+
+                    <h6 class="center"> {{gig.maxPrice}}-{{gig.minPrice}} EGP </h6>
+
+                    <h4><small class="float-right">  <i class="fa fa-briefcase float-right"></i>{{gig.profession.profName}} </small></h4>
+
+
+                  </div>
+                </div>
+              </div>
+
+
+
+            </div>
+          </div>
+        </div>

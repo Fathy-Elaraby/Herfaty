@@ -1,0 +1,35 @@
+<app-nav-bar></app-nav-bar>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<table class="table" >
+    <thead class="thead-dark">
+      <tr>
+        <th>first name</th>
+        <th>last name</th>
+        <th>City</th>
+        <th>phone number</th>
+        <th>email</th>
+        <th>Delete user</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let u of Users">
+      <tr>
+        <!-- <th scope="row">{{u.user.id}}</th> -->
+        <td>{{u.user.firstName}}</td>
+        <td>{{u.user.lastName}}</td>
+        <td>{{u.user.workCity}}</td>
+        <td>{{u.user.phoneNumber}}</td>
+        <td>{{u.user.email}}</td>
+
+        <td><button type="button" (click)="delete(u.user.id)" class="btn btn-danger" >حذف</button></td>
+      </tr>
+
+
+    </tbody>
+  </table>

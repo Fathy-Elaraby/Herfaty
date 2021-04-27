@@ -1,0 +1,26 @@
+<app-nav-bar></app-nav-bar>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<form>
+  <div class="container">
+    <div class="form-group">
+
+      <label for="profName" style="float: right; text-align: right;">القسم </label>
+      <input type="text" name="profName" class="form-control" [(ngModel)]="profName" id="profName"
+        placeholder="نجارة , سباكة ,حدادة , نقاشة" style="float: right;">
+    </div>
+
+
+    <div class="form-group">
+      <label for="exampleFormControlFile1" style="float: right;">الصورة التى تود اختيارها</label>
+      <input type="file" #file (change)="uploadFile(file.files)"  class="form-control-file" id="exampleFormControlFile1">
+
+    </div>
+  <button type="submit" (click)="postData()" class="btn btn-primary btn-block mt-10"> اضافة</button>
+  </div>
+</form>

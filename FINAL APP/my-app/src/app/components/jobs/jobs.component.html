@@ -1,0 +1,282 @@
+<app-nav-bar></app-nav-bar>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="page-heading about-heading header-text" style="background-image: url(../../../assets/images/craft2.jpg); padding: 370px 0px 130px 0px;">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <!-- <div class="text-content">
+          <h4>الوظـــــــائف</h4>
+        </div> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="products">
+  <div class="container">
+    <div class="row flex-row-reverse">
+      <div class="col-md-3 text-right">
+        <div class="contact-form">
+          <form action="#">
+            <h5 style="margin-bottom: 15px; margin-top: 20%;"> تصنيف بالحرفة </h5>
+
+
+            <div class="dropdown">
+              <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                حرفات
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div class="form-check dropdown-item" *ngFor="let prof of professions">
+                  <input class="form-check-input"  type="radio" value="{{prof.id}}"
+                     name="flexRadioDefault" id="flexRadioDefault1" (change)="getgigbyprof($event.target)">
+                  <label class="form-check-label" for="flexRadioDefault1">
+                    {{prof.profName}}
+                  </label>
+                </div>
+
+
+
+              </div>
+            </div>
+            <br>
+
+            <h5 style="margin-bottom: 15px; margin-top: 50%;">تصنيف بالمكان</h5>
+
+            <div class="dropdown">
+              <button class="btn btn-secondary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                المكان
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div class="form-check dropdown-item" *ngFor="let city of cities">
+                  <input class="form-check-input" type="radio" value="{{city}}" name="flexRadioDefault" id="flexRadioDefault1" (change)="getgigbyloc($event.target)">
+                  <label class="form-check-label" for="flexRadioDefault1">
+                        {{city}}
+                  </label>
+                </div>
+
+              </div>
+            </div>
+            <br>
+            <button class="btn btn-info" (click)="getgigbylocandprof()">تصنيف</button>
+          </form>
+        </div>
+      </div>
+
+
+        <div class="col-md-9" *ngIf="(giglength > 0 && proflength==0 && loclength==0);else nogig">
+          <div class="row flex-row-reverse">
+             <div class="col-md-4" *ngFor="let gig of gigs">
+              <div class="product-item">
+                <a [routerLink]="['/jobdetails/'+gig.gigId]"><img src="{{gig.gigPic}}" width="70" height="300" alt=""></a>
+                <div class="down-content">
+                  <a>
+                    <h4>{{gig.gigName}}</h4>
+                  </a>
+
+                  <h6>{{gig.maxPrice}}-{{gig.minPrice}}</h6>
+
+                  <h4><small><i class="fa fa-briefcase"></i> {{gig.profession.profName}} <br></small></h4>
+                </div>
+              </div>
+            </div>
+
+
+              <!-- <div class="col-md-12">
+                <ul class="pages">
+                  <li><a href="#">1</a></li>
+                  <li class="active"><a href="#">2</a></li>
+                  <li><a href="#">3</a></li>
+                  <li><a href="#">4</a></li>
+                  <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+                </ul>
+              </div> -->
+            </div>
+          </div>
+          <ng-template #nogig>
+
+            <div class="col-md-9" *ngIf="(proflength >0 &&  loclength==0);else noprofgig">
+              <div class="row flex-row-reverse">
+                 <div class="col-md-4" *ngFor="let profgig of profgigs">
+                  <div class="product-item">
+                    <a><img src="{{profgig .gigPic}}" width="70" height="300" alt=""></a>
+                    <div class="down-content">
+                      <a>
+                        <h4>{{profgig.gigName}}</h4>
+                      </a>
+
+                      <h6>{{profgig.maxPrice}}-{{profgig.minPrice}}</h6>
+
+                      <h4><small><i class="fa fa-briefcase"></i> {{profgig.profession.profName}} <br></small></h4>
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+                  <!-- <div class="col-md-12">
+                    <ul class="pages">
+                      <li><a href="#">1</a></li>
+                      <li class="active"><a href="#">2</a></li>
+                      <li><a href="#">3</a></li>
+                      <li><a href="#">4</a></li>
+                      <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+                    </ul>
+                  </div> -->
+                </div>
+              </div>
+          </ng-template>
+          <ng-template #noprofgig>
+
+            <div class="col-md-9" *ngIf="(proflength ==0 &&  loclength >0);else locandprofgig">
+              <div class="row flex-row-reverse">
+
+                 <div class="col-md-4" *ngFor="let locgig of locgigs">
+                  <div class="product-item">
+                    <a><img src="{{locgig.gigPic}}" width="70" height="300" alt=""></a>
+                    <div class="down-content">
+                      <a>
+                        <h4>{{locgig.gigName}}</h4>
+                      </a>
+
+                      <h6>{{locgig.maxPrice}}-{{locgig.minPrice}}</h6>
+
+                      <h4><small><i class="fa fa-briefcase"></i> {{locgig.profession.profName}} <br></small></h4>
+                    </div>
+                  </div>
+                </div>
+                <!-- <div class="col-md-12">
+                  <ul class="pages">
+                    <li><a href="#">1</a></li>
+                    <li class="active"><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+                  </ul>
+                </div> -->
+              </div>
+              </div>
+          </ng-template>
+          <ng-template #locandprofgig>
+
+            <div class="col-md-9">
+              <div class="row flex-row-reverse"  >
+               <div *ngIf="locandprofgigs.length >0;else o">
+
+                 <div class="col-md-4" *ngFor="let locandprofgig of locandprofgigs" >
+                  <div class="product-item">
+                    <a><img src="{{locandprofgig.gigPic}}" width="70" height="300" alt=""></a>
+                    <div class="down-content">
+                      <a>
+                        <h4>{{locandprofgig.gigName}}</h4>
+                      </a>
+
+                      <h6>{{locandprofgig.maxPrice}}-{{locandprofgig.minPrice}}</h6>
+
+                      <h4><small><i class="fa fa-briefcase"></i> سباكة <br> <strong><i class="fa fa-building"></i> ش الجيش -
+                            {{locandprofgig.profession.profName}}</strong></small></h4>
+
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+    <ng-template #o>
+      <div></div>
+    </ng-template>
+
+
+
+                    <!-- <div class="col-md-12">
+                      <ul class="pages">
+                        <li><a href="#">1</a></li>
+                        <li class="active"><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
+                      </ul>
+                    </div> -->
+                    </div>
+                   </div>
+          </ng-template>
+        </div>
+      </div>
+    </div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Book Now</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="contact-form">
+          <form action="#" id="contact">
+            <div class="row">
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Pick-up location" required="">
+                </fieldset>
+              </div>
+
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Return location" required="">
+                </fieldset>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Pick-up date/time" required="">
+                </fieldset>
+              </div>
+
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Return date/time" required="">
+                </fieldset>
+              </div>
+            </div>
+            <input type="text" class="form-control" placeholder="Enter full name" required="">
+
+            <div class="row">
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Enter email address" required="">
+                </fieldset>
+              </div>
+
+              <div class="col-md-6">
+                <fieldset>
+                  <input type="text" class="form-control" placeholder="Enter phone" required="">
+                </fieldset>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-primary">Book Now</button>
+      </div>
+    </div>
+  </div>
+</div>

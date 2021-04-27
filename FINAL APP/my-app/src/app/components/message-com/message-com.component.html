@@ -1,0 +1,32 @@
+<app-nav-bar></app-nav-bar>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<table class="table" >
+    <thead class="thead-dark">
+      <tr>
+        <th> name</th>
+        <th> email</th>
+        <th>subject</th>
+        <th> message</th>
+        <th>Delete message</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let u of recivedMessages">
+      <tr>
+        <!-- <th scope=   "row">{{u.user.id}}</th> -->
+        <td>{{u.userName}}</td>
+        <td>{{u.userMail}}</td>
+        <td>{{u.subject}}</td>
+        <td>{{u.message}}</td>
+        <td><button type="button" (click)="delete(u.id)" class="btn btn-danger" >حذف</button></td>
+      </tr>
+
+
+    </tbody>
+  </table>

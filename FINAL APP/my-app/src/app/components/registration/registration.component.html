@@ -1,0 +1,318 @@
+
+<app-nav-bar></app-nav-bar>
+
+   <br>
+   <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+<div class="container-fluid mt--7 registarForm">
+    <div class="row">
+
+      <div class="col-xl-12 order-xl-1">
+        <div class="card bg-secondary shadow">
+          <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+              <!-- <div class="col-8">
+                <h3 class="mb-0">حسابي</h3>
+              </div>
+              <div class="col-4 text-right">
+                <a href="#!" class="btn btn-sm btn-primary">الاعدادات</a>
+              </div> -->
+            </div>
+          </div>
+          <div class="card-body">
+            <form     [formGroup]="service.formModel">
+              <h6 class="heading-small text-muted mb-4">معلومات شخصية</h6>
+              <div class="pl-lg-4">
+                <div class="row">
+                  <div class="col-lg-6">
+                   <!--  <div class="form-group focused">
+                      <label class="form-control-label" for="input-username">اسم المستخدم</label>
+                      <input type="text" id="input-username"   class="form-control form-control-alternative" placeholder="ياسر حسين"  disabled>
+                    </div> -->
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-email">البريد الإلكترونى</label>
+                      <input type="email" required id="input-email" formControlName="Email"
+                      class="form-control form-control-alternative"  [(ngModel)]="email" name="email">
+                      <label class="text-danger"
+                      *ngIf="service.formModel.get('Email').touched &&service.formModel.get('Email').errors?.email">غير صحيح
+                      </label>
+                      <label class="text-danger"
+                      *ngIf="service.formModel.get('Email').touched &&service.formModel.get('Email').errors?.required">يجب إدخاله</label>
+
+
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+
+                  <div class="col-lg-6">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-last-name">الاسم الاخير</label>
+                      <input type="text" id="input-last-name" class="form-control form-control-alternative"
+                      formControlName="lastName" name="lastname"
+                       placeholder="حسين"  [(ngModel)]="lName">
+                       <label class="text-danger"
+                       *ngIf="service.formModel.get('lastName').touched &&service.formModel.get('lastName').errors?.required">يجب إدخاله</label>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-6">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-first-name">الاسم الأول</label>
+                      <input type="text" id="input-first-name" class="form-control form-control-alternative"
+                       placeholder="ياسر" [(ngModel)]="name" name="firstname"formControlName="userName" >
+                       <label class="text-danger"
+                                    *ngIf="service.formModel.get('userName').touched &&service.formModel.get('userName').errors?.required">يجب ادخاله</label>
+                    </div>
+                  </div>
+
+                </div>
+                              <!--test upload File-->
+                              <div class="row">
+
+                              <div class="col-lg-12">
+                                <!--<div class="form-group">
+                <input type="file" #file placeholder="رفع الصوره الشخصية" class="form-control form-control-alternative"
+                 (change)="uploadfile(file.files)"
+                 style="display: none;" value="اختر صوره" > <i class="bi bi-arrow-bar-up"></i>  (onUploadFinished)="uploadedFinished($event)"
+                <span class="p-buttonset" style="float:right">
+                <button type="button" class="btn btn-primary" (click)="file.click()"  ></button>
+
+              </span>
+                </div> -->
+
+                <div class="form-group">
+                  <label for="exampleFormControlFile1" style="float: right;">الصورة التى تود اختيارها</label>
+                  <input type="file" #file (change)="uploadfile(file.files)"  class="form-control-file" id="exampleFormControlFile1">
+
+                </div>
+              </div>
+            </div>
+            <hr class="my-4">
+
+
+                            <!-- end test upload File-->
+
+
+                <div class="row">
+                  <hr class="my-4">
+                  <h6 class="heading-small text-muted mb-4">تريد التسجيل </h6>
+
+                  <div class="form-groub col-lg-12" id ="radioTypeClient">
+
+                    <label class="container">عميل
+                        <span class="checkmark"></span><input type="radio" checked="checked" (change)="onItemChange('client')"
+                            name="radioClient">
+                        <span class="checkmark"></span>
+                    </label>
+                    <label class="container">صاحب حرفة
+                        <span class="checkmark"></span><input type="radio" name="radioClient" (change)="onItemChange('freelancer')">
+                        <span class="checkmark"></span>
+                    </label>
+                </div>
+                </div>
+              </div>
+              <section *ngIf="checkedUserType=='freelancer'">
+              <hr class="my-4"  >
+              <!-- Address -->
+              <h6 class="heading-small text-muted mb-4"  >العنوان</h6>
+              <div class="pl-lg-4"  >
+                <div class="row">
+                  <div class="col-md-5">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-city">المدينة</label>
+                      <select  class="form-control"   formControlName="city" [(ngModel)]="city" name="city">
+                        <option value="" selected disabled>اختر المحافظة</option>
+                        <option value="cairo"> القليوبيه </option>
+                        <option value="giza"> الجيزه </option>
+                        <option value="qalubia"> القليوبيه </option>
+
+                    </select>
+                    <label class="text-danger"
+                    *ngIf="service.formModel.get('city').touched &&service.formModel.get('city').errors?.required">يجب إدخاله</label>
+                  </div>
+                  </div>
+
+
+                  <div class="col-md-7">
+                    <div class="form-group focused required">
+                      <label class="form-control-label" for="input-address">الحى</label>
+                      <input id="input-address" class="form-control form-control-alternative"
+                      placeholder="المأمون" type="text" formControlName="streetName" [(ngModel)]="streetName" name="streetName"  >
+                      <label class="text-danger"
+                                    *ngIf="service.formModel.get('streetName').touched &&service.formModel.get('streetName').errors?.required">يجب إدخاله</label>
+                    </div>
+                  </div>
+
+
+
+                  <!-- <div class="col-md-5">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-address">الشارع</label>
+                      <input id="input-address" class="form-control form-control-alternative" placeholder="مكرم عبيد" type="text">
+                    </div>
+                  </div> -->
+             <!--      <div class="col-md-2">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-address">رقم الشارع</label>
+                      <input id="input-address" class="form-control form-control-alternative" placeholder="5" type="text">
+                    </div>
+                  </div> -->
+
+                </div>
+                <div class="row">
+                  <div class="col-lg-4">
+                    <!-- <div class="form-group focused">
+                      <label class="form-control-label" for="input-city">مدينة</label>
+                      <input type="text" id="input-city" class="form-control form-control-alternative" placeholder="القاهرة" >
+                    </div> -->
+                  </div>
+                  <div class="col-lg-4">
+                   <!--  <div class="form-group focused">
+                      <label class="form-control-label" for="input-country">البلد</label>
+                      <input type="text" id="input-country" class="form-control form-control-alternative" placeholder="مصر"   >
+                    </div> -->
+                  </div>
+                  <!-- <div class="col-lg-4">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-city">المدينة</label>
+                      <select  class="form-control"   formControlName="city" [(ngModel)]="city" name="city">
+                        <option value="" selected disabled>اختر المحافظة</option>
+                        <option value="cairo"> القليوبيه </option>
+                        <option value="giza"> الجيزه </option>
+                        <option value="qalubia"> القليوبيه </option>
+
+                    </select>
+                    <label class="text-danger"
+                    *ngIf="service.formModel.get('city').touched &&service.formModel.get('city').errors?.required">يجب إدخاله</label>
+                  </div>
+                  </div> -->
+                </div>
+              </div>
+            </section>
+              <!--profssion-->
+              <section *ngIf="checkedUserType=='freelancer'">
+              <hr class="my-4" >
+               <h6 class="heading-small text-muted mb-4"  >الحرفة</h6>
+              <div class="pl-lg-4" >
+                <div class="row">
+                  <div class="col-lg-6">
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="form-group focused">
+                      <label class="form-control-label"  >الحرفه</label>
+                      <select   id="profession"  class="form-control"  formControlName="profssion" [(ngModel)]="myProfession" name="myProfession">
+                        <option disabled value="" selected> اختر حرفتك</option>
+                        <option *ngFor="let profession of professions ; let i = index" [value]="professions[i].id" required>
+                          {{professions[i].profName}}
+                        </option>
+                      </select>
+                      <label class="text-danger"
+                    *ngIf="service.formModel.get('profssion').touched &&service.formModel.get('profssion').errors?.required">يجب إدخاله</label>
+
+                    </div>
+                </div>
+
+              </div>
+
+
+              </div>
+            </section>
+
+              <hr class="my-4">
+              <!-- Description -->
+              <h6 class="heading-small text-muted mb-4">ارقام التواصل</h6>
+              <div class="pl-lg-4">
+                <div class="row">
+                  <div class="col-lg-12">
+                    <div class="form-group focused">
+                      <label>رقم الهاتف</label>
+                      <input type="text"   id="input-phone" formControlName="PhoneNum"
+                      [(ngModel)]="phone" name="Phone" class="form-control form-control-alternative"   >
+                      <label class="text-danger"
+                                    *ngIf="service.formModel.get('PhoneNum').touched &&service.formModel.get('PhoneNum').errors?.required ">يجب إدخاله</label>
+                                <label class="text-danger"
+                                    *ngIf="service.formModel.get('PhoneNum').touched && (service.formModel.get('PhoneNum').errors?.minlength || service.formModel.get('PhoneNum').errors?.maxlength || service.formModel.get('PhoneNum')?.errors?.pattern )">غير صالح</label>
+                    </div>
+                </div>
+
+              </div>
+
+
+              </div>
+              <hr class="my-4">
+              <!--password-->
+              <h6 class="heading-small text-muted mb-4"> الرقم السري</h6>
+              <div class="pl-lg-4">
+                <div class="row">
+
+
+
+                  <div class="col-md-6">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-address">تأكيد الرقم السري</label>
+                      <input id="input-address" class="form-control form-control-alternative"
+                      name="ConfPassword" [(ngModel)]="confirmPass" formControlName="confirmPass" placeholder="تأكيد الرقم السري"
+                      type="password" (focusout)="confirmPassword()"  >
+                      <label class="text-danger" *ngIf="!confrmBool">غير مطابق</label>
+
+                    </div>
+                  </div>
+
+                  <div class="col-md-6">
+                    <div class="form-group focused">
+                      <label class="form-control-label" for="input-address">الرقم السري</label>
+                      <input id="" class="form-control form-control-alternative" placeholder="الرقم السري"
+                      type="password" formControlName="password" [(ngModel)]="password" >
+                      <label class="text-danger"
+                                    *ngIf="service.formModel.get('password').touched &&service.formModel.get('password').errors?.required">يجب إدخاله</label>
+                                <label class="text-danger"
+                                    *ngIf="service.formModel.get('password').touched &&service.formModel.get('password').errors?.minlength">يجب ادخال رقم مكون من رموز وحروف وارقام</label>
+
+                    </div>
+                  </div>
+
+                  <div class="col-lg-12">
+                    <div class="form-group focused">
+                      <span class="p-buttonset" style="float:right">
+                        <button  icon="pi pi-check" type="submit" class="btn-primary btn" *ngIf="checkedUserType=='freelancer'" (click)="confirmRegisterFreelancer()">حفظ</button>
+                        <button  icon="pi pi-check" type="submit" class="btn-primary btn" *ngIf="checkedUserType=='client'" (click)="confirmRegister()">حفظ</button>
+                     </span>
+
+                    </div>
+                </div>
+
+                </div>
+
+              </div>
+              <hr class="my-4">
+
+              <!--test upload File-->
+  <!--             <div class="row">
+                <input type="file" #file placeholder="رفع الصوره الشخصية"  (change)="uploadfile(file.files)"
+                 style="display: none;"  (onUploadFinished)="uploadedFinished($event)">
+                <button type="button" (click)="file.click()" > اختر الصوره</button>
+                </div>
+
+   -->                          <!-- end test upload File-->
+
+
+            </form>
+
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

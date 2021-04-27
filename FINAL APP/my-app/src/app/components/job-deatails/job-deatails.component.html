@@ -1,0 +1,119 @@
+<br>
+
+<app-nav-bar></app-nav-bar>
+
+<div class="page-heading about-heading header-text" style="background-image: url(../../../assets/images/craft2.jpg); padding: 370px 0px 130px 0px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="text-content">
+            <h4>{{data.gigdetails.gigName}}</h4>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="products">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 col-sm-8">
+
+            <br>
+            <br>
+
+            <div class="form-group">
+              <h1 style="float: right; direction: rtl;">{{data.gigdetails.gigName}}</h1>
+            </div>
+
+<br>
+<br>
+<br>
+
+            <h3  style="float: right; direction: rtl;">{{data.gigdetails.description}}</h3>
+
+            <br>
+            <br>
+        </div>
+
+        <div class="col-md-3 col-sm-4">
+
+          <div>
+            <img src="{{data.gigdetails.gigPic}}" width="400px" height="400px" alt="" class="img-fluid wc-image">
+          </div>
+
+          <br>
+
+          <ul class="social-icons text-center">
+            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-envelope"></i></a></li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fa fa-behance"></i></a></li>
+          </ul>
+
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          <div class="section-heading">
+            <!-- <h2>About Cannon Guards Security ltd</h2> -->
+          </div>
+
+          <p class="lead">
+                 <!-- <i class="fa fa-map-marker"></i> London -->
+            </p>
+
+          <!-- <p>Looking to improve the security at your place of business? If so, we will provide you with the trained security officers and professionally licensed personnel needed for any business. From a security guard for construction site security to private event security, you can be sure to get the very best from our staff. Alternatively we provide tailor-made security guard training for your existing security staff.</p>
+          <br>
+          <p>Looking to improve the security at your place of business? If so, we will provide you with the trained security officers and professionally licensed personnel needed for any business. From a security guard for construction site security to private event security, you can be sure to get the very best from our staff. Alternatively we provide tailor-made security guard training for your existing security staff.</p>
+          -->
+        </div>
+
+        <div class="col-md-3">
+          <div class="section-heading">
+            <h2>معلومات التواصل </h2>
+          </div>
+
+          <div style="direction: rtl; float: right;">
+            <p>
+              <span  style="direction: rtl; float: right;">اسم الصنايعي</span>
+
+              <br>
+
+              <strong  style="direction: rtl; float: right;">{{data.freelancerFirstName}}</strong>
+            </p>
+
+            <p>
+              <span  style="direction: rtl; float: right;">رقم الصنايعي</span>
+
+              <br>
+
+              <strong>
+                <a href="{{data.freelancerPhone}}">{{data.freelancerPhone}}</a>
+              </strong>
+            </p>
+
+            <p>
+              <span>مكان الصنايعي </span>
+
+              <br>
+
+              <strong>
+              <strong  style="direction: rtl; float: right;">{{data.freelancerworkcity}}</strong>
+
+              </strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

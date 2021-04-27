@@ -1,0 +1,150 @@
+#radioTypeClient{
+   text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*first templeteinput{
+	text-align: right;
+}
+
+input[type=submit] ,#next ,#finish{
+   float: right;
+   text-align: center;
+}
+#previous{
+   float: left;
+   text-align: center;
+}
+
+label{
+ float: right;
+}
+
+
+.cc-selector input{
+    margin:0;padding:0;
+    -webkit-appearance:none;
+       -moz-appearance:none;
+            appearance:none;
+}
+.Carpenter{background-image:url(../../../assets/img/Carpenter.jpg);
+}
+.Plumber{background-image:url(../../../assets/img/Plumber.jpg);}
+.Electrician{background-image:url(../../../assets/img/Electrician.jpg);}
+
+.cc-selector input:active +.drinkcard-cc{opacity: .9;}
+.cc-selector input:checked +.drinkcard-cc{
+    -webkit-filter: none;
+       -moz-filter: none;
+            filter: none;
+}
+.drinkcard-cc{
+    cursor:pointer;
+    background-size:contain;
+    background-repeat:no-repeat;
+    display:inline-block;
+    width:300px;height:200px;
+    -webkit-transition: all 100ms ease-in;
+       -moz-transition: all 100ms ease-in;
+            transition: all 100ms ease-in;
+    -webkit-filter: brightness(1.8) grayscale(1) opacity(.7);
+       -moz-filter: brightness(1.8) grayscale(1) opacity(.7);
+            filter: brightness(1.8) grayscale(1) opacity(.7);
+}
+.drinkcard-cc:hover{
+    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
+       -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
+            filter: brightness(1.2) grayscale(.5) opacity(.9);
+}
+*/
+/* Extras bs m3ana
+a:visited{color:#888}
+a{color:#444;text-decoration:none;}
+p{margin-bottom:.3em;}
+
+
+#submitBtn{
+   background-color: #FF9500;
+   border-color:#FF9500;
+}*/
+/* 
+#nextBlock , #prevBlock{
+   margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+#nextBlock{
+   margin-right:8%;
+}
+
+@media only screen and (max-width: 575px) {
+   #nextBlock {
+margin-right: 0%; 
+  }
+   
+ } 
+ */
+/*m3ana
+ #next{
+   margin-right: 17%;
+}
+
+
+@media only screen and (max-width: 576px) {
+   #next {
+      margin-right: 0%;
+   }
+ }
+  
+  
+#checkUser{
+  text-align: right;
+  margin-bottom: 5px;
+}
+*/
+
+/*.nopad {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+//image gallery
+.image-checkbox {
+	cursor: pointer;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border: 4px solid transparent;
+	margin-bottom: 0;
+	outline: 0;
+}
+.image-checkbox input[type="checkbox"] {
+	display: none;
+}
+
+.image-checkbox-checked {
+	border-color: #4783B0;
+}
+.image-checkbox .fa {
+  position: absolute;
+  color: #4A79A3;
+  background-color: #fff;
+  padding: 10px;
+  top: 0;
+  right: 0;
+}
+.image-checkbox-checked .fa {
+  display: block !important;
+}
+
+*/

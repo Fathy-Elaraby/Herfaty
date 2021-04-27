@@ -1,0 +1,31 @@
+<app-nav-bar></app-nav-bar>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <form action="/your_page.html" [formGroup]="loginFrm" (ngSubmit)="loginProcess()">
+    <div class="container" style="direction:rtl">
+      <label for="uname" style="float: right;"><b>البريد الألكتروني</b></label>
+      <input type="text" placeholder="أدخل البريد الألكتروني" name="uname" required formControlName="Email">
+      <label class="text-danger text-right " *ngIf="loginFrm.get('Email')?.errors?.email">غير صحيح</label>
+      <br>
+      <label for="psw" style="float: right;"><b>كلمة المرور</b></label>
+      <input type="password" placeholder="أدخل كلمة المرور" name="psw" required formControlName="password">
+      <!--<label>
+        <input type="checkbox" checked="checked" name="remember"> تذكرني
+      </label>-->
+      <div *ngIf="Red =='Email or Password is incorrect!'" >
+        <label class="text-danger text-right">البريد الألكتروني أو كلمة السر خطأ</label>
+      </div>
+      <button style="background-color: #337ab7;" type="submit">تسجيل الدخول</button><!--*ngIf="Red;-->
+    </div>
+
+  <!-- <div class="container" style="background-color:#f4d6d3">
+      <span class="psw"> هل نسيت <a href="YOUR ULR PAGE HERE">كلمة المرور ؟</a></span>
+    </div> -->
+
+  </form>
+
+<!--fort tesr:{{loginFrm.value | json}}-->
